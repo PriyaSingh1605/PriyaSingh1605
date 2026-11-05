@@ -52,7 +52,6 @@
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
+| **PackGuard AI** | Automated compliance platform verifying packaged commodity labels against Legal Metrology Rules 2011 with OCR & LLMs. | React.js, Node.js, FastAPI, PaddleOCR, Groq LLM, OpenCV, MongoDB | [Repo](https://github.com/PriyaSingh1605/PackGuard-AI) |
 | **LocoStore** | Hyper-local e-commerce marketplace platform connecting consumers with retail stores within a 5-10 km radius. | React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT | [Repo](https://github.com/PriyaSingh1605/LocoStore) |
-| **Hola** | Real-time messaging web application featuring dynamic search and instant bi-directional Socket.io events. | React.js, Socket.io, Express.js, Tailwind CSS, JWT | [Repo](https://github.com/PriyaSingh1605/Hola) |
-
----
+| **Hola (ChitChat)** | Real-time messaging web application featuring dynamic search and instant bi-directional Socket.io events. | React.js, Socket.io, Express.js, Tailwind CSS, JWT | [Repo](https://github.com/PriyaSingh1605/Hola) |
