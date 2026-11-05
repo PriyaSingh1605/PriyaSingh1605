@@ -1,46 +1,50 @@
 # Hi there, I'm Priya Singh 👋
 
 🎓 **Computer Science & Engineering Student** at MMMUT Gorakhpur  
-💻 **Full-Stack Developer** | **AI/ML Enthusiast** | **Competitive Programmer**
+💻 **Machine Learning &Deep Learning** | **Front-End & Full-Stack Developer** | **Teaching Assistant** | **Competitive Programmer**
 
 ---
 
 ### 🚀 About Me
 
-- 🔬 Currently building end-to-end full-stack applications and exploring **Deep Learning & GenAI Agents**.
-- 🛠️ Tech Stack Focus: **MERN (MongoDB, Express, React, Node.js)** + **Python (FastAPI, OpenCV, TensorFlow)**.
-- 🏆 Solved 300+ problems on LeetCode & CodeChef.
-- 💡 Interested in: Geocomputation, Computer Vision, and Autonomous AI Workflows (LangChain/LangGraph).
+- 🔬 Computer Science undergraduate specializing in **FULL-STACK DEVELOPMENT & MACHINE LEARNING & DEEP LEARNING** and modern web technologies.
+- 🛠️ Tech Stack Focus: **MERN (MongoDB, Express, React, Node.js)** + **Python (FastAPI)**.
+- 🛠️ Machine Learning and Deep Learning: **PYTHON, NUMPY, PANDAS, MATPLOTLIB, TENSORFLOW, LANGCHAIN**
+- 💼 Web Development Intern at **CoreMacasia Technologies** & Teaching Assistant at **Apna College** (Mentored 5,000+ students).
+- 🏆 Solved **300+ DSA problems** across LeetCode and CodeChef.
+- 💡 Contact: [LinkedIn](https://linkedin.com/in/priya-singh-393bb82b7) | [Email](mailto:singhshruti4131@gmail.com)
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 **Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Web Development:**
+**Frontend Development:**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend Development:**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+**Databases & Tools:**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**AI / ML & Data Science:**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**DevOps & Tools:**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
@@ -48,19 +52,7 @@
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **PackGuard AI** | Automated compliance platform verifying packaged commodity labels against Legal Metrology Rules. | React, Node.js, FastAPI, PaddleOCR, Groq | [Repo](#) |
-| **LocoStore** | Hyper-local e-commerce marketplace connecting consumers with retail stores ($geoNear 5km radius). | MERN Stack, Leaflet Maps, JWT | [Repo](#) |
-| **ChitChat** | Real-time messaging web application with dynamic search and live sockets. | React, Node.js, Socket.io, MongoDB | [Repo](#) |
+| **LocoStore** | Hyper-local e-commerce marketplace platform connecting consumers with retail stores within a 5-10 km radius. | React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT | [Repo](https://github.com/PriyaSingh1605/LocoStore) |
+| **Hola** | Real-time messaging web application featuring dynamic search and instant bi-directional Socket.io events. | React.js, Socket.io, Express.js, Tailwind CSS, JWT | [Repo](https://github.com/PriyaSingh1605/Hola) |
 
 ---
-
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyaSingh1605&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaSingh1605&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyaSingh1605&theme=tokyonight&hide_border=true" width="98%" />
-</p>
